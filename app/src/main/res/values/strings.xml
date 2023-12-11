@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">workout</string>
+    <string name="live_new_experience_of_working_out_at_home">Live new experience of working "\n" out at home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
